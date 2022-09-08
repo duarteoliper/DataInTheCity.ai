@@ -4,6 +4,7 @@ pandas==1.4.4
 
 # Visualizations
 matplotlib==3.5.3
+seaborn==0.11.2 
 
 # Code Linting
 flake8==5.0.4
