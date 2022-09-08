@@ -1,0 +1,12 @@
+# Data Manipulation
+numpy==1.23.2
+pandas==1.4.4
+
+# Visualizations
+matplotlib==3.5.3
+
+# Code Linting
+flake8==5.0.4
+
+# Jupyter Notebook
+ipykernel==6.15.2
